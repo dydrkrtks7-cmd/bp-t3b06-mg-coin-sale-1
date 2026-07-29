@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mokdong-club-note.best-hapjeong-pub.xyz/sitemap.xml
