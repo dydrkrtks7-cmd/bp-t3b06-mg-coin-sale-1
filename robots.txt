@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mokdong-club-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://mokdong-club-note.best-hapjeong-pub.xyz/sitemap-pages.xml
